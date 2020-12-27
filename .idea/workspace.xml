@@ -1,7 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2e4534f-cce5-48fa-a020-9048a7878c9b" name="Default Changelist" comment="" />
+    <list default="true" id="e2e4534f-cce5-48fa-a020-9048a7878c9b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ReactifolioBs4_Akj-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/hushgo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/myLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/myimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/logow.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/myLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/background/background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/carousal/slide1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/carousal/slide2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/carousal/slide3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/contact/gmail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/experience/accenture-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/experience/fiverr-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/experience/flemint.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/experience/itelasoft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/experience/meridian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/parallex/background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/parallex/background_reverse.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/profile/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/profile/profile.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/projects/React_ToDo_List.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/projects/Robofriends.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/projects/brain.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/projects/get_github_info.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/projects/mern_tip_calc.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/projects/portfolioUsingDjango.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/projects/product_hunt_clone.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/readmepreview/preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/amazon_aws.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/babeljs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/bootstrap-4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/css3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/digital-ocean.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/django.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/express.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/firebase-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/flask.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/flux.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/git-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/github-api.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/go-6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/godday-wt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/heroku.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/html-5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/java.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/javascript.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/material-ui-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/mongodb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/mssql.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/nextjs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/nodejs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/postgresql.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/python.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/pythonanywhere.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/react-bootstrap.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/react-router.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/redux.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/sass-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/springio-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/styled-components.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/typescript.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/vuejs-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/footer/footer.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/footer/footer.style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/my-carousal/my-carousal.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/my-carousal/my-carousal.styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/my-navbar/my-navbar.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/my-navbar/my-navbar.styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects-timeline/projects-timeline.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects-timeline/projects-timeline.styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/scroll-down/scroll-down.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/title-message/title-message.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/about/about.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/about/about.styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/contact-form/contact-form.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/contact-form/contact-form.styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/experience/experience-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/experience/experience.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/experience/experience.styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/skills/skills-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/skills/skills.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/skills/skills.styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/particlesOptions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/themes/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +116,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1mBePfaH5dU9ReiTDldrGwwTnXU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,11 +153,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608971403412</updated>
-      <workItem from="1608971408577" duration="11300000" />
+      <workItem from="1608971408577" duration="12686000" />
+      <workItem from="1609056736921" duration="2450000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
