@@ -27,9 +27,6 @@ const About = () => {
                 Well-organised person, problem solver, independent employee with high attention to detail. I love playing around with code and hopefully creating something that makes people smile.
                 <br />
                 Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
-                <br />
-                Along with that, I also help people as a COACH on their journey of becoming a professional programmer. 
-                <br />I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
                 <br /> <br />
                 <Col className="d-flex justify-content-center flex-wrap">
                   <div>

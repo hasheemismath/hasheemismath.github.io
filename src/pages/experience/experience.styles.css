@@ -14,3 +14,26 @@
   font-size: 25px;
   font-weight: 800;
 }
+
+/* smaller screens
+--------------------------------------------------------------- */
+@media only screen and (max-width: 900px) {
+  .img-resize {
+    width: 3em;
+  }
+
+  .body-title-style {
+    font-size: 5px;
+    font-weight: 500;
+  }
+
+  .style {
+    font-size: 15px;
+  }
+
+  .title-ex{
+    font-size: 22px;
+  }
+
+
+}

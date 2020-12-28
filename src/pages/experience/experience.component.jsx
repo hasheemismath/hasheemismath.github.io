@@ -12,7 +12,7 @@ const Experience = () => {
       <h1 className="pt-3 text-center font-details-b pb-3">EXPERIENCE</h1>
       <Jumbotron className="jumbo-style">
         <Container>
-          <Tilt options={{ max: 5 }}>
+          <Tilt options={{ max: 2}}>
             {experience.map((experience,index)=>(
                 <Card index={index}>
                     <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
@@ -20,7 +20,7 @@ const Experience = () => {
                     </Card.Header>
                     <Card.Body className="d-flex justify-content-center flex-column">
                         <div>
-                            <Card.Title className="text-center">{experience.title}</Card.Title>
+                            <Card.Title className="text-center title-ex">{experience.title}</Card.Title>
                         </div>
                         <div>
                             <Card.Text className="text-center style">
