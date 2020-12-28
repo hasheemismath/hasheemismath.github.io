@@ -29,13 +29,13 @@ const Experience = () => {
                                 <br />
                                 <strong>Duration:</strong> {experience.duration}
                                 <br/>
-                                <strong> Description </strong>
-                                {experience.description.map((desc,index)=>(
-                                    <ul className="text-left">
-                                        <li><strong>{desc.Bold} </strong>{desc.text}</li>
+                                {/*<strong> Description </strong>*/}
+                                {/*{experience.description.map((desc,index)=>(*/}
+                                {/*    <ul className="text-left">*/}
+                                {/*        <li><strong>{desc.Bold} </strong>{desc.text}</li>*/}
 
-                                    </ul>
-                                ))}
+                                {/*    </ul>*/}
+                                {/*))}*/}
                             </Card.Text>
                         </div>
                     </Card.Body>

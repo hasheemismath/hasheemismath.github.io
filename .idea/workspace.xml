@@ -4,20 +4,7 @@
     <list default="true" id="e2e4534f-cce5-48fa-a020-9048a7878c9b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/hushgo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/myLogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/myimg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/icons/logow.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/icons/myLogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/my-navbar/my-navbar.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/my-navbar/my-navbar.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/projects-timeline/projects-timeline.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projects-timeline/projects-timeline.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/about/about.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about/about.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/about/about.styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about/about.styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/experience/experience.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/experience/experience.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/experience/experience.styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/experience/experience.styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +59,7 @@
       <workItem from="1608971408577" duration="12686000" />
       <workItem from="1609056736921" duration="8373000" />
       <workItem from="1609159874109" duration="7498000" />
-      <workItem from="1609170459002" duration="3359000" />
+      <workItem from="1609170459002" duration="4582000" />
     </task>
     <servers />
   </component>
