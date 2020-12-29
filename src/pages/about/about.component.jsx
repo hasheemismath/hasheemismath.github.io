@@ -36,13 +36,13 @@ const About = () => {
                       </Button>
                     </a>
                   </div>
-                  <div>
-                    <a href="https://drive.google.com/file/d/1Snbq3x4Itk_ZN4c8J96aNdp4SunXR08Y/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-                      <Button className="m-2" variant="outline-success">
-                        My Resume
-                      </Button>
-                    </a>
-                  </div>
+                  {/*<div>*/}
+                  {/*  <a href="https://drive.google.com/file/d/1Snbq3x4Itk_ZN4c8J96aNdp4SunXR08Y/view?usp=sharing" target="_blank" rel="noopener noreferrer">*/}
+                  {/*    <Button className="m-2" variant="outline-success">*/}
+                  {/*      My Resume*/}
+                  {/*    </Button>*/}
+                  {/*  </a>*/}
+                  {/*</div>*/}
                   <div>
                     <a href="https://github.com/hasheemismath" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-dark">
