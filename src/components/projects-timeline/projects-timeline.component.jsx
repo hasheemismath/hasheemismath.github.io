@@ -12,6 +12,10 @@ import L_PortfolioUsingDjango from "../../assets/img/projects/portfolioUsingDjan
 import L_EXPRESSPROJ from "../../assets/img/projects/express.png";
 import L_NEWS from "../../assets/img/projects/news-article.png";
 import L_UNV from "../../assets/img/projects/unvgroup.jpeg";
+import L_ADMIN from "../../assets/img/projects/admin-blue.png";
+import L_LANDING from "../../assets/img/projects/landingPage.png";
+
+
 import L_TSHIRT from "../../assets/img/projects/tshirt.png";
 
 
@@ -258,6 +262,198 @@ const TimeLine = () => {
                         </div>
                     </ImageEvent>
 
+                    {/*admin Blue project*/}
+                    <ImageEvent
+                        date="01/09/2020"
+                        className="text-center"
+                        text="Admin Dashboard"
+                        src={L_ADMIN}
+                        alt="React admin App"
+                    >
+                        <div className="d-flex justify-content-between flex-column mt-1">
+                            <div>
+                                <Accordion>
+                                    <Card>
+                                        <Accordion.Toggle
+                                            as={Card.Header}
+                                            eventKey="0"
+                                            className="p-2 text-center accordian-main"
+                                        >
+                                            PROJECT DETAILS
+                                        </Accordion.Toggle>
+
+                                        <Accordion.Collapse eventKey="0" className="text-left">
+                                            <Card.Body>
+                                                <strong>Description:</strong> Free and open-source admin dashboard
+                                                template built with React and Bootstrap 4
+                                                <hr/>
+                                                <strong>Features:</strong>
+                                                <ul className="list-styles pt-1">
+                                                    <li>React Chart.js</li>
+                                                    <li>Simple login / logout</li>
+                                                    <li>Responsive layout</li>
+                                                </ul>
+                                                <hr/>
+                                                <strong>Tech used:</strong>
+                                                <ul>
+                                                    <li>
+                            <span className="p-2">
+                              <Image
+                                  src={L_HTML5}
+                                  alt="HTML 5"
+                                  rounded
+                                  className="image-style m-1"
+                              />{" "}
+                                HTML5
+                            </span>
+                                                    </li>
+                                                    <li>
+                            <span className="p-2">
+                              <Image
+                                  src={L_CSS3}
+                                  alt="CSS 3"
+                                  rounded
+                                  className="image-style m-1"
+                              />{" "}
+                                CSS3
+                            </span>
+                                                    </li>
+                                                    <li>
+                            <span className="p-2">
+                              <Image
+                                  src={L_REACT}
+                                  alt="CSS 3"
+                                  rounded
+                                  className="image-style m-1"
+                              />{" "}
+                                React js
+                            </span>
+                                                    </li>
+                                                    <li>
+                            <span className="p-2">
+                              <Image
+                                  src={L_BOOTSTRAP4}
+                                  alt="CSS 3"
+                                  rounded
+                                  className="image-style m-1"
+                              />{" "}
+                                Bootstrap4
+                            </span>
+                                                    </li>
+                                                </ul>
+                                            </Card.Body>
+                                        </Accordion.Collapse>
+                                    </Card>
+                                </Accordion>
+                            </div>
+                            <div className="d-flex justify-content-between flex-nowrap text-center">
+                                <UrlButton
+                                    href="https://hasheem.me/AdminPanelBlue/#/app/main/dashboard"
+                                    target="_blank"
+                                >
+                                    SEE LIVE
+                                </UrlButton>
+                                <UrlButton
+                                    href="https://github.com/hasheemismath/AdminPanelBlue"
+                                    target="_blank"
+                                >
+                                    SOURCE CODE
+                                </UrlButton>
+                            </div>
+                        </div>
+                    </ImageEvent>
+
+                    {/*express project*/}
+                    <ImageEvent
+                        date="01/10/2020"
+                        className="text-center"
+                        text="React Landing Page"
+                        src={L_LANDING}
+                        alt="React Landing App"
+                    >
+                        <div className="d-flex justify-content-between flex-column mt-1">
+                            <div>
+                                <Accordion>
+                                    <Card>
+                                        <Accordion.Toggle
+                                            as={Card.Header}
+                                            eventKey="0"
+                                            className="p-2 text-center accordian-main"
+                                        >
+                                            PROJECT DETAILS
+                                        </Accordion.Toggle>
+
+                                        <Accordion.Collapse eventKey="0" className="text-left">
+                                            <Card.Body>
+                                                <strong>Description:</strong> This is a ReactJS based landing page template,
+                                                fit for a startup company/service with a one page view. The design is inspired by a template from Free-CSS.com
+                                                All 'visual' data can be easily modified by changing the data.json file
+                                                <hr/>
+                                                <strong>Features:</strong>
+                                                <ul className="list-styles pt-1">
+                                                    <li>Single page application</li>
+                                                    <li>Easy Landing page</li>
+                                                    <li>Responsive layout</li>
+                                                </ul>
+                                                <hr/>
+                                                <strong>Tech used:</strong>
+                                                <ul>
+                                                    <li>
+                            <span className="p-2">
+                              <Image
+                                  src={L_HTML5}
+                                  alt="HTML 5"
+                                  rounded
+                                  className="image-style m-1"
+                              />{" "}
+                                HTML5
+                            </span>
+                                                    </li>
+                                                    <li>
+                            <span className="p-2">
+                              <Image
+                                  src={L_CSS3}
+                                  alt="CSS 3"
+                                  rounded
+                                  className="image-style m-1"
+                              />{" "}
+                                CSS3
+                            </span>
+                                                    </li>
+                                                    <li>
+                            <span className="p-2">
+                              <Image
+                                  src={L_REACT}
+                                  alt="React"
+                                  rounded
+                                  className="image-style1 m-1"
+                              />{" "}
+                                React
+                            </span>
+                                                    </li>
+                                                </ul>
+                                            </Card.Body>
+                                        </Accordion.Collapse>
+                                    </Card>
+                                </Accordion>
+                            </div>
+                            <div className="d-flex justify-content-between flex-nowrap text-center">
+                                <UrlButton
+                                    href="https://hasheem.me/React-Landing-Page"
+                                    target="_blank"
+                                >
+                                    SEE LIVE
+                                </UrlButton>
+                                <UrlButton
+                                    href="https://github.com/hasheemismath/React-Landing-Page"
+                                    target="_blank"
+                                >
+                                    SOURCE CODE
+                                </UrlButton>
+                            </div>
+                        </div>
+                    </ImageEvent>
+
                     {/*unv group*/}
                     <ImageEvent
                         date="01/02/2020"
@@ -382,14 +578,18 @@ const TimeLine = () => {
 
                                         <Accordion.Collapse eventKey="0" className="text-left">
                                             <Card.Body>
-                                                <strong>Description:</strong> This is a Todo App created with React and
-                                                Material UI that keeps a track of your Todos
+                                                <strong>Description:</strong> Created this Application using React Hooks
+                                                with the
+                                                addition of Restful API and many diﬀerent modules where customers can
+                                                buy T-Shirts.
+                                                Fully upgraded dynamic web application integrated with Stripe Payment
+                                                gateway
                                                 <hr/>
                                                 <strong>Features:</strong>
                                                 <ul className="list-styles pt-1">
-                                                    <li>Keeps track of your Todos</li>
+                                                    <li>Fully Ecommerce Functionality</li>
                                                     <li>Powered by React and Material UI</li>
-                                                    <li>Respoisive Design</li>
+                                                    <li>Responsive Design</li>
                                                 </ul>
                                                 <hr/>
                                                 <strong>Tech used:</strong>
