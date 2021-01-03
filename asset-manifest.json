@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.df826adf.chunk.css",
-    "main.js": "/static/js/main.f26873df.chunk.js",
-    "main.js.map": "/static/js/main.f26873df.chunk.js.map",
+    "main.js": "/static/js/main.4c2c631c.chunk.js",
+    "main.js.map": "/static/js/main.4c2c631c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.a240f4ee.chunk.js": "/static/js/2.a240f4ee.chunk.js",
-    "static/js/2.a240f4ee.chunk.js.map": "/static/js/2.a240f4ee.chunk.js.map",
+    "static/js/2.c6925317.chunk.js": "/static/js/2.c6925317.chunk.js",
+    "static/js/2.c6925317.chunk.js.map": "/static/js/2.c6925317.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b2e4c06a9d5401b8a9741a40ced1fcf6.js": "/precache-manifest.b2e4c06a9d5401b8a9741a40ced1fcf6.js",
+    "precache-manifest.bcd9336ad8cafd74231cf5c8fe77a702.js": "/precache-manifest.bcd9336ad8cafd74231cf5c8fe77a702.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.df826adf.chunk.css.map": "/static/css/main.df826adf.chunk.css.map",
-    "static/js/2.a240f4ee.chunk.js.LICENSE.txt": "/static/js/2.a240f4ee.chunk.js.LICENSE.txt",
+    "static/js/2.c6925317.chunk.js.LICENSE.txt": "/static/js/2.c6925317.chunk.js.LICENSE.txt",
     "static/media/React_ToDo_List.webp": "/static/media/React_ToDo_List.8897aeb6.webp",
     "static/media/Robofriends.webp": "/static/media/Robofriends.9730fefc.webp",
+    "static/media/admin-blue.png": "/static/media/admin-blue.91062470.png",
     "static/media/amazon_aws.svg": "/static/media/amazon_aws.8e24e627.svg",
     "static/media/babeljs.svg": "/static/media/babeljs.e6504a65.svg",
     "static/media/background.webp": "/static/media/background.bf989778.webp",
@@ -37,6 +38,7 @@
     "static/media/html-5.svg": "/static/media/html-5.676e8188.svg",
     "static/media/java.svg": "/static/media/java.13a09653.svg",
     "static/media/javascript.svg": "/static/media/javascript.2d2e31cc.svg",
+    "static/media/landingPage.png": "/static/media/landingPage.336e7c1e.png",
     "static/media/material-ui-1.svg": "/static/media/material-ui-1.82291019.svg",
     "static/media/mern_tip_calc.webp": "/static/media/mern_tip_calc.3ea10fb6.webp",
     "static/media/mongodb.svg": "/static/media/mongodb.2985235d.svg",
@@ -66,8 +68,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.a240f4ee.chunk.js",
+    "static/js/2.c6925317.chunk.js",
     "static/css/main.df826adf.chunk.css",
-    "static/js/main.f26873df.chunk.js"
+    "static/js/main.4c2c631c.chunk.js"
   ]
 }
